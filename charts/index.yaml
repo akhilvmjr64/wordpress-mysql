@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  wordpress-mysql:
+  - apiVersion: v1
+    appVersion: "1.1"
+    created: "2022-01-13T05:31:14.135807189+05:30"
+    description: This is a package for configuring wordpress and mysql on kubertes
+      automatically
+    digest: b6f0927c4da16a48130c15779f4b7beb7cf320c09f1c4c00802f13c4f5fe18af
+    name: wordpress-mysql
+    urls:
+    - wordpress-mysql-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-01-13T05:31:14.135490516+05:30"
